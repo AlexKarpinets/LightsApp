@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func startButtonPressed() {
+        
         startButton.setTitle("Next", for: .normal)
         
         if firstSquare.alpha == secondSquare.alpha {
