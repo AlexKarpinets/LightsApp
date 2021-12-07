@@ -1,5 +1,5 @@
 # LightsApp
-FirstApp
+My First App
 
 In this application, I learned how to do simple logic, with each click on the button (UIButton), alpha channel of the circle changes.
 
